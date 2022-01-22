@@ -1,4 +1,4 @@
-package com.example.flutter_firebase
+package com.camt.flutter.android.patteera
 
 import io.flutter.embedding.android.FlutterActivity
 
